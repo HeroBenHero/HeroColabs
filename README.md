@@ -1,10 +1,24 @@
 # Hero Colabs
-## [File Downloader](File_Downloader/File_Downloader.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][FD Notebook] 
-## [Google Drive Cloner](Google_Drive_Cloner/Google_Drive_Cloner.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][GDC Notebook] 
-## [Zip And UnZip](Zip_And_UnZip/Zip_And_UnZip.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][ZAU Notebook] 
+## [1TamilMV Downloader](1TamilMV_Downloader.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][1D]
+[1D]:1TamilMV_Downloader.ipynb
 
-[Colab Badge]:          https://colab.research.google.com/assets/colab-badge.svg
+## [File Downloader](File_Downloader.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][FD]
+[FD]:File_Downloader.ipynb
 
-[FD Notebook]:         https://colab.research.google.com/github/HeroBenHero/HeroColabs/blob/main/File_Downloader.ipynb
-[GDC Notebook]:         https://colab.research.google.com/github/HeroBenHero/HeroColabs/blob/main/Google_Drive_Cloner.ipynb
-[ZAU Notebook]:         https://colab.research.google.com/github/HeroBenHero/HeroColabs/blob/main/Zip_And_UnZip.ipynb
+## [Google Drive Cloner](Google_Drive_Cloner.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][GDC]
+[GDC]:Google_Drive_Cloner.ipynb
+
+## [IEEE Downloader](IEEE_Downloader.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][ID]
+[ID]:IEEE_Downloader.ipynb
+
+## [Seedr Video To GDriveipynb](Seedr_Video_To_GDriveipynb.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][SVTG]
+[SVTG]:Seedr_Video_To_GDriveipynb.ipynb
+
+## [Torrenter](Torrenter.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][T]
+[T]:Torrenter.ipynb
+
+## [Zip And UnZip](Zip_And_UnZip.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][ZAU]
+[ZAU]:Zip_And_UnZip.ipynb
+
+
+[Colab Badge]:https://colab.research.google.com/assets/colab-badge.svg
